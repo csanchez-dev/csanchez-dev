@@ -76,6 +76,7 @@ More projects available in my **[repositories](https://github.com/charlysanchez-
 ## 📈 GitHub Stats
 
 ![Carlos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=csanchez-dev&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=csanchez-dev&theme=material-palenight)
+![GitHub Streak](https://streak-stats.demolab.com?user=csanchez-dev&theme=tokyonight&hide_border=true)
+
 
 ---
