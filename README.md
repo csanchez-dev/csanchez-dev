@@ -1,77 +1,71 @@
-<h1 align="center"><b>Hi , I'm Carlos Sanchez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Carlos Sánchez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=200px alt="AI Thinking" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlpMnUwNGVwc2tpZGZsNTM3YjlhNzhoYjRvaDB3aTZqcjlpcDl6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" />
+<img align="right" width=200px alt="AI Thinking" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlpMnUwNGVwc2tpZGZsNTM3YjlhNzhoYjRvaDB3aTZqcjlpcDl6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"/>
 
 ## 💡 About Me
 
-I'm a **Systems Engineering and Computer Science student** at the **Catholic University of Colombia** 🇨🇴.  
-Currently, I’m learning **Data Engineering** and exploring how **Artificial Intelligence** and **Machine Learning** can drive real social impact.
+I'm a **Systems Engineering & Computer Science student** at the **Catholic University of Colombia** 🇨🇴, focused on becoming a **top-tier Software Engineer**.
 
-- 🌱 I’m currently learning:  
-  - Python for Data Engineering  
-  - SQL & Database Design  
-  - Cloud & ETL fundamentals  
-- 🎯 My goal is to build data-driven solutions that make a positive difference.  
-- 👯 I’m open to collaborating on **AI and data-related open-source projects**.  
-- 💬 Ask me about **Python, SQL, or data workflows** — always happy to help.  
-- Outside tech, I love 🎮 gaming, 🏈 football, and 📚 reading about innovation and technology.  
-- 📫 Reach out to me at: **[csanchezcabrera1@gmail.com](mailto:csanchezcabrera1@gmail.com)**  
+Right now, I'm building **real full-stack applications**, mastering the fundamentals, and preparing to work **remotely for a US company**.
+
+- 🌱 Currently learning:
+  - HTML, CSS, JavaScript (deep fundamentals)
+  - Responsive Web Design
+  - Git & GitHub best practices
+  - Python for automation and backend basics
+
+- 🎯 My goal:  
+  Build clean, scalable, purpose-driven software while growing into a world-class engineer.
+
+- 👨‍💻 What I’m working on:  
+  Practical projects like a **Pokédex**, automations, and full-stack mini apps.
+
+- 💬 Ask me about **HTML, CSS, Python, Git, and beginner-friendly full-stack topics**.
+
+- 📚 Outside coding: I enjoy reading, gaming 🎮, and learning skills that help me grow as a man and a leader.
+
+- 📫 Contact me: **csanchezcabrera1@gmail.com**  
 
 ---
-## ⚡ My Projects  
 
-Here are some of the projects I've been working on:  
+## ⚡ Projects I'm Building
 
-- 🧠 **Data Pipeline ETL Project** – Built a scalable ETL pipeline using Python and SQL to automate data extraction, transformation, and loading from multiple sources.  
-- 📊 **Data Visualization Dashboard** – Created an interactive dashboard using Power BI and Python to explore key metrics and insights.  
-- 🤖 **Machine Learning Experiments** – Currently learning and experimenting with ML models for prediction and data analysis.  
-- ☁️ **Cloud & Big Data Exploration** – Exploring AWS and Google Cloud tools for data storage and processing at scale.  
+- 🔥 **Pokédex Web App (HTML/CSS/JS)** – A clean, accessible, semantic project practicing responsive design  
+- 🛠 **Python Automation Tools** – Small utilities (file converters, scripts, etc.) to sharpen backend logic  
+- 🌐 **Mini Full-Stack Projects** – Slowly combining frontend + backend fundamentals  
+- 🧩 **Learning Challenges** – FreeCodeCamp, algorithms, and personal coding exercises
 
-🚀 Check out more in my [repositories](https://github.com/charlysanchez-data?tab=repositories)!
+More projects available in my **[repositories](https://github.com/charlysanchez-data?tab=repositories)** 🚀
 
-## 🧠 My Skills Include
+---
 
-<h4> Languages </h4>
-<span> 
+## 🧠 My Tech Stack
+
+### Languages
+<span>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white">
 </span>
 
-<h4> Data Tools </h4>
-<span>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-</span>
-
-<h4> Databases </h4>
-<span>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-</span>
-
-<h4> Cloud & ETL </h4>
-<span>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-</span>
-
-<h4> Other Tools </h4>
+### Tools & Frameworks  
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </span>
 
+### Learning Soon (Phase 2 & 3)
+<span>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+</span>
+
 ---
 
-## 🌐 Check out my LinkedIn profile
+## 🌐 Connect with Me
 
 <a href="https://www.linkedin.com/in/carlos-sebastian-sanchez-cabrera-90747425a/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -81,7 +75,7 @@ Here are some of the projects I've been working on:
 
 ## 📈 GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=charlysanchez-data&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/charlysanchez-data)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=charlysanchez-data&theme=material-palenight)](https://github.com/charlysanchez-data)
+![Carlos' GitHub Stats](https://github-readme-stats.vercel.app/api?username=csanchez-dev&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=csanchez-dev&theme=material-palenight)
 
 ---
