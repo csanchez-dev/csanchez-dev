@@ -35,7 +35,7 @@ Right now, I'm building **real full-stack applications**, mastering the fundamen
 - 🌐 **Mini Full-Stack Projects** – Slowly combining frontend + backend fundamentals  
 - 🧩 **Learning Challenges** – FreeCodeCamp, algorithms, and personal coding exercises
 
-More projects available in my **[repositories](https://github.com/charlysanchez-data?tab=repositories)** 🚀
+More projects available in my **[repositories](https://github.com/csanchez-dev?tab=repositories)** 🚀
 
 ---
 
