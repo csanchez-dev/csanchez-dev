@@ -4,9 +4,9 @@
 
 ## 💡 About Me
 
-I'm a **Systems Engineering & Computer Science student** at the **Catholic University of Colombia** 🇨🇴, focused on becoming a **top-tier Software Engineer**.
+I'm a **Computer Science student** at the **Catholic University of Colombia** 🇨🇴, focused on becoming a **top-tier Software Engineer**.
 
-Right now, I'm building **real full-stack applications**, mastering the fundamentals, and preparing to work **remotely for a US company**.
+Right now, I'm building **real full-stack applications**, mastering the fundamentals, and preparing to work **on real life applications**.
 
 - 🌱 Currently learning:
   - HTML, CSS, JavaScript (deep fundamentals)
